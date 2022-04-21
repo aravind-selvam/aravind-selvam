@@ -63,9 +63,6 @@
 <a href = "https://www.linkedin.com/in/aravind-selvam/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/Aravind__36"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/aravind._selvam/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-
 </p>
-
-## ❤ Views and Followers
-<img src="https://komarev.com/ghpvc/?username=aravind9722">
+## Followers
 <img src="https://img.shields.io/github/followers/aravind9722?label=Followers&style=social" alt="GitHub Badge"></a>
