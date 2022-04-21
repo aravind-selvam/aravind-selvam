@@ -9,15 +9,15 @@
 
 - 🔭 I’m currently working as **Data Science intern** at **iNeuron Intelligence Pvt. Ltd.**
 
-- 🌱 I’m currently learning **Advaced python and Machine Learning**
+- 🌱 I’m currently learning **Advaced python and Machine Learning.**
 
-- 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/aravind-selvam/)
+- 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/aravind-selvam/).
 
-- 📫 How to reach me aravind9722@gmail.com
+- 💻 Check my Projects and other Repos [HERE.](https://github.com/aravind9722?tab=repositories)
 
-- 👨‍💻 Completed **Google Data Analytics and IBM Data Analytics Professional certificates** 
+- 👨‍💻 Completed **Google Data Analytics and IBM Data Analytics Professional certificates.** 
 
-- ⚡ Fun fact is am **Ex-National level Motorsports Athelete**
+- ⚡ Fun fact is am **Ex-National level Motorsports Athelete.**
 
 ## 🚀 Languages and Tools:
 
