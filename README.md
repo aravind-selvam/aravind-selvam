@@ -17,7 +17,7 @@
 
 - 👨‍💻 Completed **Google Data Analytics and IBM Data Analytics Professional certificates.** 
 
-- ⚡ Fun fact is am **Ex-National level Motorsports Athelete.**
+- ⚡ Fun fact is am **Ex-National level Motorsports Athlete.**
 
 ## 🚀 Languages and Tools:
 
