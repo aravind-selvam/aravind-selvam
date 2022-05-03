@@ -40,6 +40,9 @@
     </a>
 </p>
 
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
 ## 📊 My Github Stats
 
   <br/>
