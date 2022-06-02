@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working as **Data Science intern** at **iNeuron Intelligence Pvt. Ltd.**
 
-- 🌱 I’m currently learning **Advaced python and Machine Learning.**
+- 🌱 I’m currently learning **Machine Learning and Deep Learning.**
 
 - 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/aravind-selvam/).
 
