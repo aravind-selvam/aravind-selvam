@@ -1,15 +1,18 @@
 <h1 align="center">Hi, I'm Aravind</h1>
-<h3 align="center">I'm a passionate Data Enthusiast from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aravind9722&label=Profile%20views&color=0e75b6&style=flat" alt="aravind9722" /> </p>
 
 <img align="right" alt="Coding" width="450" height="350" src="https://user-images.githubusercontent.com/84115928/142569072-22fdc7ac-5815-4e96-b84d-f918a85d47ec.gif">
 
-## 🙋‍♂️ About Me
+<div align='center'>
+<img src='https://readme-typing-svg.herokuapp.com/?font=ubuntu&color=16A085&center=true&lines=Data+Scientist;Data+Enthusiast;Open+to+Work'/>
+</div>
+
+## **ABOUT ME**
 
 - 🔭 I’m currently working as **Data Science intern** at **iNeuron Intelligence Pvt. Ltd.**
 
-- 🌱 I’m currently learning **Machine Learning and Deep Learning.**
+- 🌱 I’m currently learning **Machine Learning and MLops.**
 
 - 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/aravind-selvam/).
 
@@ -19,49 +22,47 @@
 
 - ⚡ Fun fact is am **Ex-National level Motorsports Athlete.**
 
-## 🚀 Languages and Tools:
+## **LANGUAGES AND TOOLS**
 
 <p align="left"> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://pandas.pydata.org/static/img/pandas_secondary.svg" alt="pandas" width="auto" height="50"/> </a> 
-    <a href="https://numpy.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/50221806/86498201-a8bd8680-bd39-11ea-9d08-66b610a8dc01.png" alt="numpy" width="auto" height="50"/> </a>
-    <a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/microsoft-excel-2019.png"/> </a> 
-    <a href="https://public.tableau.com/app/profile/aravind1998#!/?newProfile=&activeTab=0" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tableau-software.png"/> </a>
-    <a href="https://https://www.postgresql.org//" target="_blank"> <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt='postgresql' width= 'auto' height= '45'/> </a>
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a>    
-    <a href="https://powerbi.microsoft.com/en-au/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/power-bi.png"/> </a> 
-    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> </a> 
+    <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"      /> </a> 
+    <a href="https://numpy.org/" target="_blank"> <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white"> </a>
+    <a href="https://jupyter.org/" target="_blank"> <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/> </a>
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/> </a>
+    <a href="https://scikit-learn.org/stable/" target="_blank"> <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/> </a> 
+    <a href="https://plotly.com/" target="_blank"> <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white"/> </a>
+    <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/></a>
+    <a href="https://flask.palletsprojects.com/en/2.1.x/" target="_blank"> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/></a>
+     <a href="https://streamlit.io/" target="_blank"> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white"/> </a>
+    <a href="https://www.docker.com/" target="_blank"> <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/> </a>
+    <a href="https://www.heroku.com" target="_blank"> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/> </a>
+    <a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank"> <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/> </a> 
+    <a href="https://public.tableau.com/app/profile/aravind1998#!/?newProfile=&activeTab=0" target="_blank"> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/> </a>
+    <a href="https://https://www.postgresql.org//" target="_blank"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> </a>   
+    <a href="https://powerbi.microsoft.com/en-au/" target="_blank"> <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"/> </a>
 </p>
 <br/>
 
-<p align="center">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Aravind's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=aravind9722&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-
-<!--START_SECTION:badges-->
-<!--END_SECTION:badges-->
-
-## 📊 My Github Stats
-
-  <br/>
-    <img alt="Aravind's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aravind9722&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<p align="Left">
     <img alt="Aravind's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aravind9722&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</p>
 
-<br/>
-<br/>
+## **CODING STATS**
+<p align = 'center'>
+    <img src='https://github-readme-stats.vercel.app/api?username=aravind9722&count_private=true&include_all_commits=true&show_icons=true&theme=gotham&hide_border=true&line_height=27'/>
+    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=aravind9722&show_icons=true&hide=php,html,typescript,css,markdown,python&theme=gotham&line_height=27&hide_border=true'/>
+</p>
 
+## **STREAK STATS**
+<p align = 'center'>
+    <img src='https://github-readme-streak-stats.herokuapp.com/?user=aravind9722&theme=gotham&hide_border=true'>
+</p>
 
-## Connect with me:
+## **CONNECT WITH ME**:
 <p align="left">
-
 <a href = "https://www.linkedin.com/in/aravind-selvam/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/Aravind__36"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/aravind._selvam/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-</p>
-
-## Followers
 <img src="https://img.shields.io/github/followers/aravind9722?label=Followers&style=social" alt="GitHub Badge"></a>
+</p>
