@@ -1,8 +1,6 @@
-<h2 align="center">HI, I'm ARAVIND</h2>
+<h2 align="center">Hi, I'm ARAVIND</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aravind9722&label=Profile%20views&color=0e75b6&style=flat" alt="aravind9722" /> </p>
-
-<img align="right" alt="Coding" width="450" height="350" src="https://user-images.githubusercontent.com/84115928/142569072-22fdc7ac-5815-4e96-b84d-f918a85d47ec.gif">
 
 <div align='center'>
 <img src='https://readme-typing-svg.herokuapp.com/?font=ubuntu&color=16A085&center=true&lines=Data+Scientist;Data+Enthusiast;Open+to+Work!'/>
@@ -13,8 +11,6 @@
 - 🔭 I’m currently working as **Data Science intern** at **iNeuron Intelligence Pvt. Ltd.**
 
 - 🌱 I’m currently learning **Machine Learning and MLops.**
-
-- 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/aravind-selvam/).
 
 - 💻 Check my Projects and other Repos [HERE.](https://github.com/aravind9722?tab=repositories)
 
