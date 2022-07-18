@@ -3,18 +3,18 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aravind9722&label=Profile%20views&color=0e75b6&style=flat" alt="aravind9722" /> </p>
 
 <div align='center'>
-<img src='https://readme-typing-svg.herokuapp.com/?font=ubuntu&color=16A085&center=true&lines=Data+Scientist;Data+Enthusiast;Open+to+Work!'/>
+<img src='https://readme-typing-svg.herokuapp.com/?font=ubuntu&color=16A085&center=true&lines=Data+Scientist%20@%20iNeuron;Data+Enthusiast'/>
 </div>
 
 ## **ABOUT ME**
 
-- 🔭 I’m currently working as **Data Science intern** at **iNeuron Intelligence Pvt. Ltd.**
+- 🔭 I’m currently working as **Data Scientist** at **iNeuron Intelligence Pvt. Ltd.**
 
-- 🌱 I’m currently learning **Machine Learning and MLops.**
+- 🌱 I’m currently learning **Deep Learning and MLops.**
 
 - 💻 Check my Projects and other Repos [HERE.](https://github.com/aravind9722?tab=repositories)
 
-- 👨‍💻 Completed **Google Data Analytics and IBM Data Analytics Professional certificates.** 
+- 👨‍💻 Completed **Google Data Analytics and Full Stack Data Science certificates.** 
 
 - ⚡ Fun fact is am **Ex-National level Motorsports Athlete.**
 
