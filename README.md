@@ -3,18 +3,16 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aravind9722&label=Profile%20views&color=0e75b6&style=flat" alt="aravind-selvam" /> </p>
 
 <div align='center'>
-<img src='https://readme-typing-svg.herokuapp.com/?font=ubuntu&color=16A085&center=true&lines=Data+Scientist%20@%20iNeuron;Data+Enthusiast'/>
+<img src='https://readme-typing-svg.herokuapp.com/?font=ubuntu&color=16A085&center=true&lines=Data+Scientist%20@%20Xelpmoc'/>
 </div>
 
 ## **ABOUT ME**
 
-- 🔭 I’m currently working as **Data Scientist** at **iNeuron Intelligence Pvt. Ltd.**
+- 🔭 I’m currently working as **Data Scientist** at **Xelpmoc Design and Tech Limited**
 
-- 🌱 I’m currently working on **PyTorch and Devops, MLops Tools.**
+- 🌱 I’m currently working on **Document AI and Large Language Models**
 
 - 💻 Check my Projects and other Repos [HERE.](https://github.com/aravind9722?tab=repositories)
-
-- 👨‍💻 Completed **Google Data Analytics and Full Stack Data Science certificates.** 
 
 - ⚡ Fun fact is am **Ex-National level Motorsports Athlete and Ex-Startup owner.**
 
