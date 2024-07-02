@@ -14,7 +14,7 @@
 
 - 💻 Check my Projects and other Repos [HERE.](https://github.com/aravind9722?tab=repositories)
 
-- ⚡ Fun fact is am **Ex-National level Motorsports Athlete and Ex-Startup owner.**
+- ⚡ Fun fact is am **Ex-National level Motorsports Athlete and Ex-Startup founder.**
 
 
 
